@@ -15,7 +15,7 @@
 
 # Diagram
 
-<img src="Play/scheme.png" width="919" height="448">
+<img src="Play/PlayVoice/scheme.png" width="919" height="448">
 
 ## Requirements
 
